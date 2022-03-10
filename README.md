@@ -1,3 +1,3 @@
 # Link to deoloyed contract
 
-0x94a71f7931e3aad7d44aa9531c98ae614e82557f
+https://rinkeby.etherscan.io/tx/0x2aac265591ada7c130814227d376e8a24f5e7c3fdbafe9766b156fbdb722e791
